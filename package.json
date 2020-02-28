@@ -1,0 +1,15 @@
+{
+  "name": "stockswebsocketdemoserver",
+  "version": "1.0.0",
+  "description": "This is a demo server that serves example stocks data over WebSocket.",
+  "main": "server.js",
+  "scripts": {
+    "generate-stocks-data": "node generateStocks.js"
+  },
+  "author": "LOSTMOA LIMITED",
+  "license": "MIT",
+  "dependencies": {
+    "fake-stock-market-generator": "^1.0.3",
+    "ws": "^7.2.1"
+  }
+}

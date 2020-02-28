@@ -1,0 +1,942 @@
+[
+    {
+        "symbol": "IET",
+        "companyName": "Morissette Group",
+        "catchPhrase": "Proactive high-level framework",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 564
+            },
+            {
+                "minute": 1,
+                "price": 581.25
+            },
+            {
+                "minute": 2,
+                "price": 523.47
+            },
+            {
+                "minute": 3,
+                "price": 485.55
+            },
+            {
+                "minute": 4,
+                "price": 530.53
+            },
+            {
+                "minute": 5,
+                "price": 530.97
+            },
+            {
+                "minute": 6,
+                "price": 477.83
+            },
+            {
+                "minute": 7,
+                "price": 976.81
+            },
+            {
+                "minute": 8,
+                "price": 941.23
+            },
+            {
+                "minute": 9,
+                "price": 905.84
+            }
+        ]
+    },
+    {
+        "symbol": "N",
+        "companyName": "Goyette - Fritsch",
+        "catchPhrase": "Intuitive grid-enabled function",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 221
+            },
+            {
+                "minute": 1,
+                "price": 234.39
+            },
+            {
+                "minute": 2,
+                "price": 223.51
+            },
+            {
+                "minute": 3,
+                "price": 223.61
+            },
+            {
+                "minute": 4,
+                "price": 211.67
+            },
+            {
+                "minute": 5,
+                "price": 214.51
+            },
+            {
+                "minute": 6,
+                "price": 207.38
+            },
+            {
+                "minute": 7,
+                "price": 219.97
+            },
+            {
+                "minute": 8,
+                "price": 219.01
+            },
+            {
+                "minute": 9,
+                "price": 215.16
+            }
+        ]
+    },
+    {
+        "symbol": "ZHT",
+        "companyName": "Kuhn - Kautzer",
+        "catchPhrase": "Operative discrete task-force",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 74
+            },
+            {
+                "minute": 1,
+                "price": 84.59
+            },
+            {
+                "minute": 2,
+                "price": 89.47
+            },
+            {
+                "minute": 3,
+                "price": 102.46
+            },
+            {
+                "minute": 4,
+                "price": 111.23
+            },
+            {
+                "minute": 5,
+                "price": 107.87
+            },
+            {
+                "minute": 6,
+                "price": 111.85
+            },
+            {
+                "minute": 7,
+                "price": 118.35
+            },
+            {
+                "minute": 8,
+                "price": 99.59
+            },
+            {
+                "minute": 9,
+                "price": 109.1
+            }
+        ]
+    },
+    {
+        "symbol": "V",
+        "companyName": "Shields - Littel",
+        "catchPhrase": "Proactive optimizing success",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 281
+            },
+            {
+                "minute": 1,
+                "price": 294.13
+            },
+            {
+                "minute": 2,
+                "price": 267.99
+            },
+            {
+                "minute": 3,
+                "price": 296.34
+            },
+            {
+                "minute": 4,
+                "price": 295.5
+            },
+            {
+                "minute": 5,
+                "price": 287.44
+            },
+            {
+                "minute": 6,
+                "price": 260.06
+            },
+            {
+                "minute": 7,
+                "price": 237.29
+            },
+            {
+                "minute": 8,
+                "price": 229.48
+            },
+            {
+                "minute": 9,
+                "price": 221.7
+            }
+        ]
+    },
+    {
+        "symbol": "ELY",
+        "companyName": "Kuvalis, Waters and Bode",
+        "catchPhrase": "Stand-alone zero administration migration",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 373
+            },
+            {
+                "minute": 1,
+                "price": 361.45
+            },
+            {
+                "minute": 2,
+                "price": 379.86
+            },
+            {
+                "minute": 3,
+                "price": 407.61
+            },
+            {
+                "minute": 4,
+                "price": 397.84
+            },
+            {
+                "minute": 5,
+                "price": 387.3
+            },
+            {
+                "minute": 6,
+                "price": 389.8
+            },
+            {
+                "minute": 7,
+                "price": 413.51
+            },
+            {
+                "minute": 8,
+                "price": 381.89
+            },
+            {
+                "minute": 9,
+                "price": 358.52
+            }
+        ]
+    },
+    {
+        "symbol": "TZW",
+        "companyName": "Lowe - Cassin",
+        "catchPhrase": "Cross-group reciprocal hierarchy",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 718
+            },
+            {
+                "minute": 1,
+                "price": 711.12
+            },
+            {
+                "minute": 2,
+                "price": 738.48
+            },
+            {
+                "minute": 3,
+                "price": 708.18
+            },
+            {
+                "minute": 4,
+                "price": 636.33
+            },
+            {
+                "minute": 5,
+                "price": 651.33
+            },
+            {
+                "minute": 6,
+                "price": 626.27
+            },
+            {
+                "minute": 7,
+                "price": 639.68
+            },
+            {
+                "minute": 8,
+                "price": 667.86
+            },
+            {
+                "minute": 9,
+                "price": 658.66
+            }
+        ]
+    },
+    {
+        "symbol": "FIK",
+        "companyName": "Collins Group",
+        "catchPhrase": "Universal executive encoding",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 141
+            },
+            {
+                "minute": 1,
+                "price": 135.11
+            },
+            {
+                "minute": 2,
+                "price": 128.87
+            },
+            {
+                "minute": 3,
+                "price": 133.25
+            },
+            {
+                "minute": 4,
+                "price": 140.63
+            },
+            {
+                "minute": 5,
+                "price": 131.85
+            },
+            {
+                "minute": 6,
+                "price": 136.85
+            },
+            {
+                "minute": 7,
+                "price": 132.51
+            },
+            {
+                "minute": 8,
+                "price": 126.35
+            },
+            {
+                "minute": 9,
+                "price": 131.95
+            }
+        ]
+    },
+    {
+        "symbol": "T",
+        "companyName": "Koss - Bartell",
+        "catchPhrase": "Profit-focused leading edge Graphic Interface",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 309
+            },
+            {
+                "minute": 1,
+                "price": 280.54
+            },
+            {
+                "minute": 2,
+                "price": 285.68
+            },
+            {
+                "minute": 3,
+                "price": 298.51
+            },
+            {
+                "minute": 4,
+                "price": 327.24
+            },
+            {
+                "minute": 5,
+                "price": 355.75
+            },
+            {
+                "minute": 6,
+                "price": 346.05
+            },
+            {
+                "minute": 7,
+                "price": 312.88
+            },
+            {
+                "minute": 8,
+                "price": 325.66
+            },
+            {
+                "minute": 9,
+                "price": 323.09
+            }
+        ]
+    },
+    {
+        "symbol": "ZQ",
+        "companyName": "Jerde LLC",
+        "catchPhrase": "Mandatory systematic open architecture",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 938
+            },
+            {
+                "minute": 1,
+                "price": 893.95
+            },
+            {
+                "minute": 2,
+                "price": 838.36
+            },
+            {
+                "minute": 3,
+                "price": 863.06
+            },
+            {
+                "minute": 4,
+                "price": 887.07
+            },
+            {
+                "minute": 5,
+                "price": 964.79
+            },
+            {
+                "minute": 6,
+                "price": 987.81
+            },
+            {
+                "minute": 7,
+                "price": 945.28
+            },
+            {
+                "minute": 8,
+                "price": 850.79
+            },
+            {
+                "minute": 9,
+                "price": 791.55
+            }
+        ]
+    },
+    {
+        "symbol": "NP",
+        "companyName": "Denesik - Morissette",
+        "catchPhrase": "Cloned background help-desk",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 627
+            },
+            {
+                "minute": 1,
+                "price": 618.75
+            },
+            {
+                "minute": 2,
+                "price": 627.03
+            },
+            {
+                "minute": 3,
+                "price": 621.82
+            },
+            {
+                "minute": 4,
+                "price": 731.38
+            },
+            {
+                "minute": 5,
+                "price": 746.1
+            },
+            {
+                "minute": 6,
+                "price": 680.4
+            },
+            {
+                "minute": 7,
+                "price": 738.5
+            },
+            {
+                "minute": 8,
+                "price": 712.34
+            },
+            {
+                "minute": 9,
+                "price": 741.08
+            }
+        ]
+    },
+    {
+        "symbol": "MJ",
+        "companyName": "Leffler - Walsh",
+        "catchPhrase": "Implemented modular website",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 659
+            },
+            {
+                "minute": 1,
+                "price": 616.64
+            },
+            {
+                "minute": 2,
+                "price": 611.24
+            },
+            {
+                "minute": 3,
+                "price": 641.12
+            },
+            {
+                "minute": 4,
+                "price": 626.63
+            },
+            {
+                "minute": 5,
+                "price": 632.49
+            },
+            {
+                "minute": 6,
+                "price": 690.86
+            },
+            {
+                "minute": 7,
+                "price": 711.11
+            },
+            {
+                "minute": 8,
+                "price": 647.81
+            },
+            {
+                "minute": 9,
+                "price": 594.83
+            }
+        ]
+    },
+    {
+        "symbol": "KG",
+        "companyName": "Bechtelar and Sons",
+        "catchPhrase": "Universal impactful moratorium",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 514
+            },
+            {
+                "minute": 1,
+                "price": 463.87
+            },
+            {
+                "minute": 2,
+                "price": 476.65
+            },
+            {
+                "minute": 3,
+                "price": 460.73
+            },
+            {
+                "minute": 4,
+                "price": 455.88
+            },
+            {
+                "minute": 5,
+                "price": 438.39
+            },
+            {
+                "minute": 6,
+                "price": 406.24
+            },
+            {
+                "minute": 7,
+                "price": 399.65
+            },
+            {
+                "minute": 8,
+                "price": 404.27
+            },
+            {
+                "minute": 9,
+                "price": 438.09
+            }
+        ]
+    },
+    {
+        "symbol": "OY",
+        "companyName": "Lockman, Carroll and Wolf",
+        "catchPhrase": "Re-contextualized fresh-thinking time-frame",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 430
+            },
+            {
+                "minute": 1,
+                "price": 464.17
+            },
+            {
+                "minute": 2,
+                "price": 433.54
+            },
+            {
+                "minute": 3,
+                "price": 439.52
+            },
+            {
+                "minute": 4,
+                "price": 413.79
+            },
+            {
+                "minute": 5,
+                "price": 378.89
+            },
+            {
+                "minute": 6,
+                "price": 406.71
+            },
+            {
+                "minute": 7,
+                "price": 436.15
+            },
+            {
+                "minute": 8,
+                "price": 431.47
+            },
+            {
+                "minute": 9,
+                "price": 435.27
+            }
+        ]
+    },
+    {
+        "symbol": "ITN",
+        "companyName": "Schumm, Paucek and Oberbrunner",
+        "catchPhrase": "Open-source systematic architecture",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 348
+            },
+            {
+                "minute": 1,
+                "price": 323.04
+            },
+            {
+                "minute": 2,
+                "price": 309.21
+            },
+            {
+                "minute": 3,
+                "price": 295.05
+            },
+            {
+                "minute": 4,
+                "price": 275.06
+            },
+            {
+                "minute": 5,
+                "price": 250.17
+            },
+            {
+                "minute": 6,
+                "price": 259.47
+            },
+            {
+                "minute": 7,
+                "price": 233.63
+            },
+            {
+                "minute": 8,
+                "price": 225.69
+            },
+            {
+                "minute": 9,
+                "price": 210.71
+            }
+        ]
+    },
+    {
+        "symbol": "OB",
+        "companyName": "Schiller and Sons",
+        "catchPhrase": "Enhanced non-volatile migration",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 588
+            },
+            {
+                "minute": 1,
+                "price": 617.4
+            },
+            {
+                "minute": 2,
+                "price": 656.27
+            },
+            {
+                "minute": 3,
+                "price": 718.62
+            },
+            {
+                "minute": 4,
+                "price": 651.1
+            },
+            {
+                "minute": 5,
+                "price": 601.44
+            },
+            {
+                "minute": 6,
+                "price": 550.69
+            },
+            {
+                "minute": 7,
+                "price": 602.81
+            },
+            {
+                "minute": 8,
+                "price": 565.02
+            },
+            {
+                "minute": 9,
+                "price": 522.67
+            }
+        ]
+    },
+    {
+        "symbol": "ACM",
+        "companyName": "Pouros, Satterfield and Macejkovic",
+        "catchPhrase": "Phased secondary superstructure",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 326
+            },
+            {
+                "minute": 1,
+                "price": 295.63
+            },
+            {
+                "minute": 2,
+                "price": 276.78
+            },
+            {
+                "minute": 3,
+                "price": 286.94
+            },
+            {
+                "minute": 4,
+                "price": 311.03
+            },
+            {
+                "minute": 5,
+                "price": 289.75
+            },
+            {
+                "minute": 6,
+                "price": 260.16
+            },
+            {
+                "minute": 7,
+                "price": 86.37
+            },
+            {
+                "minute": 8,
+                "price": 94.58
+            },
+            {
+                "minute": 9,
+                "price": 93.77
+            }
+        ]
+    },
+    {
+        "symbol": "QQ",
+        "companyName": "Ferry, Smith and VonRueden",
+        "catchPhrase": "Intuitive asymmetric knowledge base",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 624
+            },
+            {
+                "minute": 1,
+                "price": 679.6
+            },
+            {
+                "minute": 2,
+                "price": 663.61
+            },
+            {
+                "minute": 3,
+                "price": 633.8
+            },
+            {
+                "minute": 4,
+                "price": 657.07
+            },
+            {
+                "minute": 5,
+                "price": 716.83
+            },
+            {
+                "minute": 6,
+                "price": 795.27
+            },
+            {
+                "minute": 7,
+                "price": 791.62
+            },
+            {
+                "minute": 8,
+                "price": 712.29
+            },
+            {
+                "minute": 9,
+                "price": 737.39
+            }
+        ]
+    },
+    {
+        "symbol": "X",
+        "companyName": "Simonis Group",
+        "catchPhrase": "Grass-roots multi-state encryption",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 272
+            },
+            {
+                "minute": 1,
+                "price": 290.39
+            },
+            {
+                "minute": 2,
+                "price": 291
+            },
+            {
+                "minute": 3,
+                "price": 317.15
+            },
+            {
+                "minute": 4,
+                "price": 310.72
+            },
+            {
+                "minute": 5,
+                "price": 312.15
+            },
+            {
+                "minute": 6,
+                "price": 296.91
+            },
+            {
+                "minute": 7,
+                "price": 277.78
+            },
+            {
+                "minute": 8,
+                "price": 269.69
+            },
+            {
+                "minute": 9,
+                "price": 293.15
+            }
+        ]
+    },
+    {
+        "symbol": "XLC",
+        "companyName": "Witting - Gorczany",
+        "catchPhrase": "Networked systematic encryption",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 395
+            },
+            {
+                "minute": 1,
+                "price": 388.25
+            },
+            {
+                "minute": 2,
+                "price": 369.83
+            },
+            {
+                "minute": 3,
+                "price": 388.65
+            },
+            {
+                "minute": 4,
+                "price": 411.85
+            },
+            {
+                "minute": 5,
+                "price": 426.67
+            },
+            {
+                "minute": 6,
+                "price": 437.12
+            },
+            {
+                "minute": 7,
+                "price": 461.72
+            },
+            {
+                "minute": 8,
+                "price": 449.44
+            },
+            {
+                "minute": 9,
+                "price": 421.44
+            }
+        ]
+    },
+    {
+        "symbol": "S",
+        "companyName": "Crooks, Maggio and Kassulke",
+        "catchPhrase": "Fundamental impactful artificial intelligence",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 755
+            },
+            {
+                "minute": 1,
+                "price": 752.42
+            },
+            {
+                "minute": 2,
+                "price": 721.96
+            },
+            {
+                "minute": 3,
+                "price": 748.71
+            },
+            {
+                "minute": 4,
+                "price": 692.96
+            },
+            {
+                "minute": 5,
+                "price": 672.22
+            },
+            {
+                "minute": 6,
+                "price": 630.32
+            },
+            {
+                "minute": 7,
+                "price": 635.15
+            },
+            {
+                "minute": 8,
+                "price": 589.45
+            },
+            {
+                "minute": 9,
+                "price": 565.81
+            }
+        ]
+    }
+]
